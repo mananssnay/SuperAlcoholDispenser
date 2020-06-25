@@ -25,8 +25,7 @@
         - 7 - segment display
         - Servo Motor
 
-![alt text For Logo 1]
-[flowchart]
+
 
 [flowchart]: https://github.com/mananssnay/SuperAlcoholDispenser/blob/master/flowchart/flowchart.svg "Flowchart"
 
