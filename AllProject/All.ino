@@ -58,7 +58,7 @@ distance = duration * 0.034 / 2;
      }
     
 
-     if (distance<=100){ 
+     if (distance<=50){ 
          myservo.attach(servoPin);
          delay(1);
          myservo.write(0);
